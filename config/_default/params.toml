@@ -40,7 +40,7 @@ searchThreshold = 0.4 # 0.0: exact match, 1.0: any match
 
 # body
 enableBreadcrumb = true
-enableGoToTop = true
+enableGoToTop = false
 enableWhoami = true
 summaryShape = "classic" # card, classic, compact
 archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
@@ -53,6 +53,7 @@ writtenTimeIcon = "📅"
 modifiedTimeIcon = "📝"
 readingTimeIcon = "☕"
 authorIcon = "✍️"
+authorImage= "/img/nexus.jpg"
 pagePvIcon = "👀"
 pinIcon = "📌"
 tagIcon = "🏷️"
